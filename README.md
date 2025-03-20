@@ -1,7 +1,5 @@
 # Portfolio Website
-
 Hello ! Bharat Pagare !   
-
 Deploy Web application on AWS Cloud using EC2 Instance
 
 1.	Create EC2 Instance 
